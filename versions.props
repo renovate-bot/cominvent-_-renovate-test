@@ -1,0 +1,2 @@
+org.apache.lucene:lucene-core = 8.11.1
+com.squareup.okhttp3:okhttp = 3.12.0
