@@ -1,4 +1,3 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "enabledManagers": ["gradle"]
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
 }
