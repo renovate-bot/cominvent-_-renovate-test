@@ -3,6 +3,6 @@
   "postUpgradeTasks": {
     "commands": ["./gradlew updateLicenses"],
     "fileFilters": ["solr/licenses/*.sha1"],
-    "executionMode": "update"
+    "executionMode": "branch"
   }
 }
