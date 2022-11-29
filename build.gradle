@@ -14,6 +14,7 @@ apply plugin: 'java'
 
 dependencies {
   implementation 'org.apache.lucene:lucene-core'
+  implementation 'org.apache.lucene:lucene-codecs'
   implementation 'com.squareup.okhttp3:okhttp'
 }
 
