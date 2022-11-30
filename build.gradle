@@ -13,9 +13,9 @@ plugins {
 apply plugin: 'java'
 
 dependencies {
-  implementation 'org.apache.lucene:lucene-core'
-  implementation 'org.apache.lucene:lucene-codecs'
-  implementation 'com.squareup.okhttp3:okhttp'
+  implementation 'org.apache.curator:curator-client'
+  implementation 'org.apache.hadoop.thirdparty:hadoop-shaded-guava'
+  implementation 'org.apache.hadoop:hadoop-auth'
 }
 
 repositories {
