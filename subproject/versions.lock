@@ -1,0 +1,6 @@
+# Run ./gradlew --write-locks to regenerate this file
+org.apache.commons:commons-collections4:4.2 (1 constraints: aa04252c)
+org.apache.commons:commons-lang3:3.9 (1 constraints: b004292c)
+
+[Test dependencies]
+commons-io:commons-io:2.7 (1 constraints: ad04242c)
